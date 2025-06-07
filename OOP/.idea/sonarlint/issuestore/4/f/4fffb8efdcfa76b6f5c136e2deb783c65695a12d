@@ -1,0 +1,9 @@
+
+¶
+java:S6548"A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ώςϊª8Ω¶—ερ2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ΰΉÿ¨ώÿÿÿÿ8β¶—ερ2
+U	java:S106""9Replace this use of System.out or System.err by a logger.(‰­“ω8γ¶—ερ2
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ª£β΄8δ¶—ερ2
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(—°ψÿÿÿÿ8ε¶—ερ2
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(ΣϋΫ8ε¶—ερ2
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(Βζ“ϊ8ΌΦ—ερ2
