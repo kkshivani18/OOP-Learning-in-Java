@@ -15,3 +15,35 @@ P
  src/inheritance/SmartDevice.java,f\8\f8e36ca5b42386ce326e81b91c4c92d8e0cce61e
 H
 src/inheritance/Fan.java,d\6\d63ff610db19c303b97a1bfb172eee1af5617423
+L
+src/polymorphism/Guitar.java,7\a\7a44b2582adfc412fc0a34912f6b6a44fbb0deeb
+L
+src/inheritance/Speaker.java,b\9\b9325d9a137375bd9042b1564856d6097c2794ed
+K
+src/polymorphism/Piano.java,9\b\9bc4e5a68f5a84f658e7f321b96318218ca2a9ca
+J
+src/polymorphism/Main.java,3\4\341e17d9d507567a2e293f28272926670829c1dd
+O
+src/packages/llibrary/Main.java,8\7\876e0b657180a4b02761e64ac5c427b61859772f
+P
+ src/polymorphism/Instrument.java,5\5\551162af3d9fbc8be33dfe5b0324b1c2989a82aa
+J
+src/classes/classprac.java,1\8\18d75f0a6bfd4790ba91d48da5d4eb2ed5732f01
+_
+/src/packages/llibrary/utils/InputValidator.java,b\f\bf052065868dc19a824345abf926010000b6f036
+K
+src/polymorphism/Drums.java,1\c\1c8ea8c0b6180a132e8794c990a59e4cb9b51f6b
+V
+&src/inheritance/DevicesController.java,6\5\6505803c97f760fef1709b0e6ca825c754401ca4
+U
+%src/InheritPolyEncapAbs/Elephant.java,6\f\6f126bee9d3d5c0415f83c52a8c5c9420e9bcb41
+Q
+!src/InheritPolyEncapAbs/Lion.java,9\7\97c7a225987c0d2a1e2f0bc881dd2a7668c43ac7
+S
+#src/InheritPolyEncapAbs/Parrot.java,e\8\e83de389fcc4d998c74f6af1a1e58c3990e07338
+S
+#src/InheritPolyEncapAbs/Animal.java,a\7\a7d5e330701d0405b7a6196d1069fb4216bf5dee
+Y
+)src/InheritPolyEncapAbs/ZooSimulator.java,d\d\dd6a498429af9b16a72aba240ffd5ae4ecb7a38c
+V
+&src/InheritPolyEncapAbs/ZooKeeper.java,1\f\1f941fc4f64bd1cee5ee8426951ed8038dd07210
