@@ -3,7 +3,7 @@
 ### Object Oriented Programming in Java
 
 - This repository contains a collection of Java assignments, I did for understanding OOP concepts. 
-- You can refer Kunal Kushwaha playlist on OOP to understand all the concepts of OOP - [OOPS Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk) 
+- You can refer Kunal Kushwaha's playlist on OOP, he did a great job to make us understand all the concepts of OOP - [OOPS Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
 
 ### Assignments
 
